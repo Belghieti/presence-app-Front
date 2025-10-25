@@ -64,4 +64,4 @@ L’application sera accessible sur :
 
 ## 🔗 Backend associé
 
-👉 [Presence Backend (Spring Boot)](https://github.com/TON_UTILISATEUR/presence-backend)
+👉 [Presence Backend (Spring Boot)](https://github.com/Belghieti/presence-app.git)
